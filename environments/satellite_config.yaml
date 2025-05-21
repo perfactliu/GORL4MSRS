@@ -1,0 +1,7 @@
+# satellite_number: 6
+# start_positions: [[0,0,0],[0,1,0],[0,2,0],[0,3,0],[0,-1,0],[0,-2,0]]
+# target_positions: [[0,0,0],[0,1,0],[0,2,0],[0,3,0],[0,4,0],[0,5,0]]
+
+satellite_number: 4
+start_positions: [[0,0,0],[0,1,0],[0,2,0],[0,-1,0]]
+target_positions: [[0,0,0],[0,1,0],[0,2,0],[0,3,0]]
